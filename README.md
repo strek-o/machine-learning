@@ -20,7 +20,7 @@
 - [x] Implement a SGD method that will train the Lasso regression for 10 epochs.
 - [x] Extend the Fisher's classifier to work with two features. Use the class as the $y$.
 
-# Exercise 3 `Decision trees`
+## Exercise 3 `Decision trees`
 
 [[commit]](https://github.com/strek-o/machine-learning/tree/efd02949ffbdd9ca2a2a1725691fde666efddb8e)
 
@@ -28,3 +28,10 @@
 - [x] Use pydot do draw the tree for C4.5 example.
 - [x] Implement the minimum number of objects pruning method.
 - [x] Plot OC1 tree, but instead of elements id, print the feature id it was split by.
+
+## Exercise 4 `SVM`
+
+[commit]
+
+- [ ] Implement the polynomial kernel.
+- [ ] Implement the multiclass C-SVM.
