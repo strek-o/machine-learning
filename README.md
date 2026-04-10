@@ -22,7 +22,7 @@
 
 # Exercise 3 `Decision trees`
 
-[[commit]]()
+[[commit]](https://github.com/strek-o/machine-learning/tree/efd02949ffbdd9ca2a2a1725691fde666efddb8e)
 
 - [x] Rewrite the CART method to the Gini index.
 - [x] Use pydot do draw the tree for C4.5 example.
