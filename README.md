@@ -33,5 +33,5 @@
 
 [commit]
 
-- [ ] Implement the polynomial kernel.
-- [ ] Implement the multiclass C-SVM.
+- [x] Implement the polynomial kernel.
+- [x] Implement the multiclass C-SVM.
