@@ -40,8 +40,8 @@
 
 [commit]
 
-- [ ] Build your own tokenizer, where you need to implement two functions to implement a tokenizer based on regular expression.
-- [ ] Get tags from Trump speech.
-- [ ] Get the nouns in the last 10 sentences from Trump's speech and find the nouns divided by sentences. Use SpaCy.
-- [ ] Build your own Bag Of Words implementation using tokenizer created before.
-- [ ] Build a 5-gram model and clean up the results.
+- [x] Build your own tokenizer, where you need to implement two functions to implement a tokenizer based on regular expression.
+- [x] Get tags from Trump speech.
+- [x] Get the nouns in the last 10 sentences from Trump's speech and find the nouns divided by sentences. Use SpaCy.
+- [x] Build your own Bag Of Words implementation using tokenizer created before.
+- [x] Build a 5-gram model and clean up the results.
