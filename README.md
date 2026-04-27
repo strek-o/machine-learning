@@ -38,7 +38,7 @@
 
 ## Exercise 5 `NLP`
 
-[commit]
+[commit](https://github.com/strek-o/machine-learning/tree/ab3beca60bd2a41f17b7a07e789626b7093efa3e)
 
 - [x] Build your own tokenizer, where you need to implement two functions to implement a tokenizer based on regular expression.
 - [x] Get tags from Trump speech.
