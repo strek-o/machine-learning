@@ -40,8 +40,8 @@
 
 [commit]
 
-- [ ] Find the best three classifier in the stacking method using the classifiers from scikit-learn package.
-- [ ] Build arcing arc-x4 method.
+- [x] Find the best three classifier in the stacking method using the classifiers from scikit-learn package.
+- [x] Build arcing arc-x4 method.
 
 ## Exercise 6 `NLP`
 
