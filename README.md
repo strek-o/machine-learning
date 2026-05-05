@@ -31,14 +31,21 @@
 
 ## Exercise 4 `SVM`
 
-[commit](https://github.com/strek-o/machine-learning/tree/c119c06c7dc07e818f007eb10fe32f44f0ba308a)
+[[commit]](https://github.com/strek-o/machine-learning/tree/c119c06c7dc07e818f007eb10fe32f44f0ba308a)
 
 - [x] Implement the polynomial kernel.
 - [x] Implement the multiclass C-SVM.
 
-## Exercise 5 `NLP`
+## Exercise 5 `Ensemble`
 
-[commit](https://github.com/strek-o/machine-learning/tree/ab3beca60bd2a41f17b7a07e789626b7093efa3e)
+[commit]
+
+- [ ] Find the best three classifier in the stacking method using the classifiers from scikit-learn package.
+- [ ] Build arcing arc-x4 method.
+
+## Exercise 6 `NLP`
+
+[[commit]](https://github.com/strek-o/machine-learning/tree/ab3beca60bd2a41f17b7a07e789626b7093efa3e)
 
 - [x] Build your own tokenizer, where you need to implement two functions to implement a tokenizer based on regular expression.
 - [x] Get tags from Trump speech.
