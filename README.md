@@ -38,7 +38,7 @@
 
 ## Exercise 5 `Ensemble`
 
-[commit]
+[[commit]](https://github.com/strek-o/machine-learning/tree/eba27479aa3b3f53392785376ae91d30ae4ad327)
 
 - [x] Find the best three classifier in the stacking method using the classifiers from scikit-learn package.
 - [x] Build arcing arc-x4 method.
